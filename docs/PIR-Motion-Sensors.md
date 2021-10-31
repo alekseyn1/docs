@@ -78,3 +78,13 @@ With this it will stay ON for 30 seconds then send OFF message and the timer res
 Set the data pin to `Switch n` for it to work.
 
 [Datasheet](https://eu.mouser.com/datasheet/2/315/PANA_S_A0004395539_1-2560640.pdf)
+
+## Parallax Wide Angle PIR (SKU 28032)
+Wide Angle PIR Sensor with LED Signal
+works on 3.3v or 5v
+
+Set the data pin to `Switch n`
+
+<img src="https://media.parallax.com/wp-content/uploads/2020/07/24110657/28032a.png" width=200>
+<img src="https://media.parallax.com/wp-content/uploads/2020/07/24110745/28032b.png" width=200>
+
